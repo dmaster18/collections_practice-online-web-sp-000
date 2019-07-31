@@ -58,4 +58,4 @@ def kesha_maker(string_array)
   end
 end
 
-puts 
+puts kesha_maker(string_array)
