@@ -52,5 +52,5 @@ end
 
 def kesha_maker(string_array)
   string_array.collect do |string|
-    
+    string.
 end
