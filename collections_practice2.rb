@@ -54,7 +54,7 @@ def kesha_maker(string_array)
   string_array.collect do |string|
     string.split(',')
     string[2] = "$"
-    string.join('')
+    string.join
   end
 end
 
