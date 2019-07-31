@@ -52,4 +52,5 @@ end
 
 def kesha_maker(string_array)
   string_array.each do |string|
+    
 end
