@@ -51,7 +51,7 @@ def reverse_array(string_array)
 end
 
 def kesha_maker(string_array)
-      string.split(',')
+  string.split(',')
   string_array.each do |string|
 
     string[2] = "$"
