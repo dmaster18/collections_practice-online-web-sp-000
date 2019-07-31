@@ -55,4 +55,5 @@ def kesha_maker(string_array)
     string.split(',')
     string[2] = "$"
     string.join
+  end
 end
